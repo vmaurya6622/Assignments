@@ -1,0 +1,37 @@
+        mohit
+renuka,0
+rohit,0
+rishabh,0
+        manmohan,1
+aayan,1
+renuka
+rohit,0
+mohit,0
+rishabh,0
+manmohan,0
+aayan,1
+rishabh
+rohit,0
+mohit,1
+renuka,0
+manmohan,1
+aayan,1
+manmohan
+rohit,0
+mohit,1
+renuka,0
+rishabh,0
+aayan,0
+aayan
+rohit,1
+mohit,1
+renuka,1
+rishabh,1
+manmohan,0
+rohit
+aayan,0
+mohit,1
+renuka,1
+rishabh,1
+manmohan,0
+
